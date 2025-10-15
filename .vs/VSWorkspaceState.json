@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\components",
+    "\\app\\context",
+    "\\app\\favorit",
+    "\\app\\resep",
+    "\\app\\resep\\[slug]",
+    "\\data",
+    "\\public",
+    "\\public\\images"
+  ],
+  "SelectedNode": "\\app\\page.tsx",
+  "PreviewInSolutionExplorer": false
+}
