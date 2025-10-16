@@ -9,7 +9,7 @@ export default function RecipeCard({ recipe }: { recipe: Recipe }) { // <-- Tera
                 <img src={recipe.image} alt={recipe.title} className="w-full h-48 object-cover" />
                 <div className="p-4">
                     <h3 className="text-xl font-bold mb-2">{recipe.title}</h3>
-                    <p className="text-gray-700 text-base">{recipe.description}</p>
+                    <p className="text-white-700 text-base">{recipe.description}</p>
                 </div>
             </div>
         </Link>
