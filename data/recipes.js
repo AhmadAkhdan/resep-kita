@@ -4,7 +4,7 @@ export const recipes = [
         id: 1,
         slug: "nasi-goreng-spesial",
         title: "Nasi Goreng Spesial",
-        description: "Nasi goreng lezat dengan telur, ayam, dan sayuran.",
+        description: "Nasi goreng lezat dengan telur, ayam, sayuran, aneka seafood, dan bumbu rahasia.",
         image: "/images/nasi-goreng.jpg",
         ingredients: ["Nasi putih", "Bawang merah", "Bawang putih", "Kecap manis", "Telur", "Ayam suwir"],
         steps: ["Tumis bumbu hingga harum.", "Masukkan nasi dan aduk rata.", "Tambahkan kecap, ayam, dan telur.", "Sajikan selagi hangat."],
