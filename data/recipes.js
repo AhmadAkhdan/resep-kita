@@ -54,7 +54,7 @@ export const recipes = [
         description: "Minuman klasik yang menyegarkan untuk segala suasana.",
         image: "/images/minuman.jpg", // Jangan lupa tambahkan gambar ini
         category: "Minuman",
-        ingredients: ["140 ml air pandan + suji 700 ml air secukupnya Gula merah cair 70 Gr tepung tapioka 90 ml Tepung beras 1 sdt garam 60 ml Santan secukupnya / susu full krim secukupnya 1 buah es batu"],
+        ingredients: ["140 ml air pandan + suji 700 ml air secukupnya", "Gula merah cair 70 Gr", "tepung tapioka 90 ml", "Tepung beras 1 sdt", "garam 60 ml Santan secukupnya / susu full krim secukupnya", "1 buah es batu"],
         steps: ["Campurkan semua tepung, garam hingga tercampur rata, masukkan air, Masukkan air suji pandannya lalu aduk rata jgn sampai ada yg menggumpal (api jgn menyala dl ya)", "Nyalakan api, lalu aduk hingga adonan menggumpal dan menyatu semua warnanya, jika sudah lalu langsng bentuk cendolnya.", "Siapkan air es, dan alat cendol, saya pke saringan kukusan magic com ya, setelah itu tiriskan cendol yg sudah jdi, Masukkan 1 air gula jawa, lalu 1 sendok / sesuai selera cendol dawetnya, lalu masukkan susu atau santannya. Dan terakhir es batu, selamat mencoba"],
     },
     {
