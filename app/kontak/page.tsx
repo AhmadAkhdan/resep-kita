@@ -40,7 +40,7 @@ export default function KontakKami() {
                             name="nama"
                             required
                             placeholder="Masukkan nama lengkap Anda"
-                            className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 transition"
+                            className="text-black w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 transition"
                         />
                     </div>
                     <div>
@@ -53,7 +53,7 @@ export default function KontakKami() {
                             name="email"
                             required
                             placeholder="Masukkan email Anda"
-                            className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 transition"
+                            className="text-black w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 transition"
                         />
                     </div>
                     <div>
@@ -66,7 +66,7 @@ export default function KontakKami() {
                             name="subjek"
                             required
                             placeholder="Judul pesan"
-                            className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 transition"
+                            className="text-black w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 transition"
                         />
                     </div>
                     <div>
@@ -79,10 +79,10 @@ export default function KontakKami() {
                             rows={5}
                             required
                             placeholder="Tulis pesan Anda di sini"
-                            className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 transition resize-none"
+                            className="text-black w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 transition resize-none"
                         ></textarea>
                     </div>
-                    <div className="text-center">
+                    <div>
                         <button
                             type="submit"
                             className="bg-blue-600 text-white font-semibold px-6 py-2 rounded-lg shadow-md hover:bg-blue-700 transition"
