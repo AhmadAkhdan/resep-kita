@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\resep\\[slug]\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\resep\\[slug]\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\favorit\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\favorit\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\context\\FavoritesContext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\context\\FavoritesContext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\components\\FavoriteButton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\components\\FavoriteButton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AXIOO\\source\\repos\\resep-kita\\data\\recipes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\recipes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\components\\Navbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\components\\Navbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\types.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\types.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AXIOO\\source\\repos\\resep-kita\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -10,15 +46,124 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FavoriteButton.tsx",
+              "DocumentMoniker": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\components\\FavoriteButton.tsx",
+              "RelativeDocumentMoniker": "app\\components\\FavoriteButton.tsx",
+              "ToolTip": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\components\\FavoriteButton.tsx",
+              "RelativeToolTip": "app\\components\\FavoriteButton.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-15T12:13:23.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "types.ts",
+              "DocumentMoniker": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\types.ts",
+              "RelativeDocumentMoniker": "app\\types.ts",
+              "ToolTip": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\types.ts",
+              "RelativeToolTip": "app\\types.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-15T12:09:49.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\favorit\\page.tsx",
+              "RelativeDocumentMoniker": "app\\favorit\\page.tsx",
+              "ToolTip": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\favorit\\page.tsx",
+              "RelativeToolTip": "app\\favorit\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-15T12:06:21.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FavoritesContext.tsx",
+              "DocumentMoniker": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\context\\FavoritesContext.tsx",
+              "RelativeDocumentMoniker": "app\\context\\FavoritesContext.tsx",
+              "ToolTip": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\context\\FavoritesContext.tsx",
+              "RelativeToolTip": "app\\context\\FavoritesContext.tsx",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-15T12:04:29.435Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\resep\\[slug]\\page.tsx",
+              "RelativeDocumentMoniker": "app\\resep\\[slug]\\page.tsx",
+              "ToolTip": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\resep\\[slug]\\page.tsx",
+              "RelativeToolTip": "app\\resep\\[slug]\\page.tsx",
+              "ViewState": "AgIAACcAAAAAAAAAAAAEwBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-15T12:01:16.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\page.tsx",
+              "RelativeDocumentMoniker": "app\\page.tsx",
+              "ToolTip": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\page.tsx",
+              "RelativeToolTip": "app\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-15T11:57:05.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\layout.tsx",
+              "RelativeDocumentMoniker": "app\\layout.tsx",
+              "ToolTip": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\layout.tsx",
+              "RelativeToolTip": "app\\layout.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-15T11:55:48.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Navbar.tsx",
+              "DocumentMoniker": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\components\\Navbar.tsx",
+              "RelativeDocumentMoniker": "app\\components\\Navbar.tsx",
+              "ToolTip": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\app\\components\\Navbar.tsx",
+              "RelativeToolTip": "app\\components\\Navbar.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-15T11:52:38.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "recipes.js",
+              "DocumentMoniker": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\data\\recipes.js",
+              "RelativeDocumentMoniker": "data\\recipes.js",
+              "ToolTip": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\data\\recipes.js",
+              "RelativeToolTip": "data\\recipes.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-15T11:42:25.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\AXIOO\\source\\repos\\resep-kita\\package.json",
               "RelativeDocumentMoniker": "package.json",
@@ -26,8 +171,11 @@
               "RelativeToolTip": "package.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-15T11:36:45.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T11:36:45.572Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
