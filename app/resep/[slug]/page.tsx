@@ -3,7 +3,6 @@
 "use client";
 
 import { recipes } from '@/data/recipes';
-import FavoriteButton from '@/app/components/FavoriteButton';
 import { useParams } from 'next/navigation';
 import { Recipe } from '@/app/types';
 
@@ -25,7 +24,6 @@ export default function RecipeDetailPage() {
         <main className="max-w-4xl mx-auto">
             <header>
                 <h1 className="text-4xl font-extrabold mb-4">{recipe.title}</h1>
-                <FavoriteButton recipe={recipe} />
             </header>
             <img
                 src={recipe.image || '/placeholder.jpg'}

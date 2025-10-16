@@ -8,7 +8,6 @@ export default function Navbar() {
                 <Link href="/" className="text-white text-2xl font-bold">ResepKita</Link>
                 <div className="space-x-4">
                     <Link href="/" className="text-gray-300 hover:text-white">Beranda</Link>
-                    <Link href="/favorit" className="text-gray-300 hover:text-white">Favorit</Link>
                     <Link href="/produk" className="text-gray-300 hover:text-white">Produk</Link>
                     <Link href="/kontak" className="text-gray-300 hover:text-white">Kontak kami</Link>
                     <Link href="/tentang" className="text-gray-300 hover:text-white">Tentang kami</Link>
