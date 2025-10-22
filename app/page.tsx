@@ -5,9 +5,6 @@ import RecipeCard from "./components/RecipeCard";
 
 export default function HomePage() {
 
-    // TAMBAHKAN BARIS INI UNTUK DEBUG
-    console.log("Isi variabel recipes:", recipes);
-
     return (
         <div>
             <h1 className="text-3xl font-bold mb-6">Semua Resep</h1>
