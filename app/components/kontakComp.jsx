@@ -1,11 +1,10 @@
-"use client";
 export default function KontakKami({ headerTitle, introMessage }) { // Menerima props di sini!
     return (
         <div className="max-w-5xl mx-auto p-8 space-y-10">
 
             {/* Header & Intro */}
             <div className="text-center space-y-2">
-                <h1 className="text-4xl font-bold text-white-800">{headerTitle}</h1>
+                <h1 className="text-4xl font-bold text-white-800">{headerTitle}</h1>``
                 <p className="text-white-600 text-lg">
                     {introMessage}
                 </p>
