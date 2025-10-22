@@ -4,7 +4,7 @@ export default function KontakKami({ headerTitle, introMessage }) { // Menerima 
 
             {/* Header & Intro */}
             <div className="text-center space-y-2">
-                <h1 className="text-4xl font-bold text-white-800">{headerTitle}</h1>``
+                <h1 className="text-4xl font-bold text-white-800">{headerTitle}</h1>
                 <p className="text-white-600 text-lg">
                     {introMessage}
                 </p>

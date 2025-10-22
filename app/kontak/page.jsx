@@ -1,4 +1,4 @@
-import KontakKami from '../components/KontakComp';
+import KontakKami from './kontakPage';
 
 export default function KontakPage() {
     return (
