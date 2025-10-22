@@ -1,5 +1,5 @@
 export const categories = [
-  { id: 1, name: "Nasi", image: "/images/nasi.jpg" },     
+  { id: 1, name: "Nasi", image: "/images/nasi.jpg" },
   { id: 2, name: "Soto", image: "/images/soto.jpg" },
   { id: 3, name: "Sate", image: "/images/sate-ayam.jpeg" },
   { id: 4, name: "Seafood", image: "/images/seafood.jpg" },
@@ -7,4 +7,12 @@ export const categories = [
   { id: 6, name: "Minuman", image: "/images/minuman.jpg" },
   { id: 7, name: "Dessert", image: "/images/dessert.jpg" },
   { id: 8, name: "Sambal", image: "/images/sambal.jpg" },
+  { id: 9, name: "Mie", image: "/images/mie.jpg" },
+  { id: 10, name: "Bakso", image: "/images/bakso.jpg" },
+  { id: 11, name: "Gorengan", image: "/images/gorengan.jpg" },
+  { id: 12, name: "Ayam", image: "/images/ayam.jpg" },
+  { id: 13, name: "Sayuran", image: "/images/sayuran.jpg" },
+  { id: 14, name: "Jajanan Pasar", image: "/images/jajanan-pasar.jpg" },
+  { id: 15, name: "Sup", image: "/images/sup.jpg" },
+  { id: 16, name: "Ikan Bakar", image: "/images/ikan-bakar.jpg" },
 ];
