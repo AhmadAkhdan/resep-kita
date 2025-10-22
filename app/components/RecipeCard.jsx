@@ -1,8 +1,6 @@
-﻿// app/components/RecipeCard.tsx
 import Link from 'next/link';
-import { Recipe } from '../types'; // <-- Impor tipe Recipe
 
-export default function RecipeCard({ recipe }: { recipe: Recipe }) { // <-- Terapkan tipe di sini
+export default function RecipeCard({ recipe }) {
     return (
         <Link href={`/resep/${recipe.slug}`}>
             <div className="border rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">

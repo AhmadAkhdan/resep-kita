@@ -1,9 +1,10 @@
-// app/page.tsx
 
 import { recipes } from "@/data/recipes";
 import RecipeCard from "./components/RecipeCard";
 
 export default function HomePage() {
+
+    console.log("Isi variabel recipes:", recipes);
 
     return (
         <div>

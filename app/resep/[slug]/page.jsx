@@ -1,13 +1,13 @@
-﻿"use client";
+"use client";
 
 import { recipes } from '@/data/recipes';
 import { useParams } from 'next/navigation';
-import { useRouter } from 'next/navigation'; // <-- 1. Impor useRouter
+import { useRouter } from 'next/navigation';
 
 export default function RecipeDetailPage() {
   const params = useParams();
-  const router = useRouter(); // <-- 2. Inisialisasi router
-  const slug = params.slug as string;
+  const router = useRouter();
+  const slug = params.slug;
   const recipe = recipes.find((recipe) => recipe.slug === slug);
 
   if (!recipe) {
@@ -16,8 +16,7 @@ export default function RecipeDetailPage() {
 
   return (
     <div className="max-w-4xl mx-auto">
-      {/* 3. Tambahkan tombol kembali di sini */}
-      <button 
+      <button
         onClick={() => router.back()}
         className="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded mb-5"
       >
@@ -27,9 +26,9 @@ export default function RecipeDetailPage() {
       <div className="mb-4">
         <h1 className="text-4xl font-extrabold">{recipe.title}</h1>
       </div>
-      
+
       <img src={recipe.image} alt={recipe.title} className="w-full h-96 object-cover rounded-lg mb-6" />
-      
+
       <div className="mb-6">
           <h2 className="text-2xl font-bold mb-2">Bahan-bahan:</h2>
           <ul className="list-disc list-inside">
@@ -38,7 +37,7 @@ export default function RecipeDetailPage() {
               ))}
           </ul>
       </div>
-      
+
       <div>
           <h2 className="text-2xl font-bold mb-2">Langkah-langkah:</h2>
           <ol className="list-decimal list-inside space-y-2">

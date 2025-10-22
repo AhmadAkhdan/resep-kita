@@ -1,5 +1,3 @@
-// app/produk/page.tsx
-
 import Link from "next/link";
 import Image from "next/image";
 import { categories } from "@/data/categories.js";
@@ -27,10 +25,10 @@ export default function ProdukPage() {
               style={{ objectFit: "cover", display: "block" }}
             />
 
-    
+
             <div className="absolute inset-0 bg-black/30 z-10 group-hover:bg-black/40 transition-colors duration-200"></div>
 
-    
+
             <h2 className="absolute bottom-4 left-4 text-2xl font-bold text-white z-20">
               {category.name}
             </h2>

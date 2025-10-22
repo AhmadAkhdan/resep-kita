@@ -8,7 +8,7 @@ export const metadata = {
   description: "Kumpulan resep masakan Indonesia",
 };
 
-export default function RootLayout({ children }: { children: ReactNode }) {
+export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>

@@ -1,5 +1,4 @@
-// app/kontak/page.js
-import KontakKami from '../components/KontakComp'; // Impor di sini
+import KontakKami from '../components/KontakComp';
 
 export default function KontakPage() {
     return (
